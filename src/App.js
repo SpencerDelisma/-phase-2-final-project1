@@ -1,4 +1,3 @@
-
 import './App.css';
 import UilReact from '@iconscout/react-unicons/icons/uil-react'
 import TopButtons from './TopButton';
@@ -6,6 +5,7 @@ import Inputs from './Inputs';
 import TimeAndLocation from './TimeAndLocation';
 import TemperatureAndDetails from './TemperatureAndDetails';
 
+const [search, setSearch]=useState[]
 
 function App() {
   return (
