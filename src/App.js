@@ -6,7 +6,7 @@ import TimeAndLocation from './TimeAndLocation';
 import TemperatureAndDetails from './TemperatureAndDetails';
 import Forecast from './Forecast';
 import getFormattedWeatherData from './Weather';
-import {DateTime} from 'luxon'
+
 
 
 function App() {
